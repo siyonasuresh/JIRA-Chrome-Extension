@@ -8,12 +8,7 @@ Developer : Siyona Suresh (2023 Summer Supply Chain Technology Intern)
 
 Management : Rameshbabu Anna, Jeffrey Melbourne
 
----
-
-**About this file**  
-The purpose of this file is to provide overview, setup instructions and background information of the project. 
-  
-**Note : Any dependencies added / modified to this project which affect the running of the code must be listed in this file. All developers must ensure that the instructions mentioned in this file are sufficient to enable a new developer to obtain a executable copy of the lastest code in this repository, without involvement from any other human assistance.**
+About: This extension allows anyone to create tickets within J&J Vision JIRA backlogs. Using this tool does not require a previously authorized JIRA account. 
 
 ---
 
