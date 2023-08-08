@@ -1,5 +1,5 @@
 # Welcome to JIRA Chrome Extension Project
-# <img src="./logo.png" width="50">  
+![JNJLOGO](logo.png)
 ## A Johnson & Johnson JIRA Request Initiator Chrome Extension
 
 Extension Name : JIRA Request Initiator
