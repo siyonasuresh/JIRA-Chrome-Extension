@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Jira Ticket Creator",
+  "description": "Base Level Extension",
+  "version": "1.0",
+  "host_permissions": ["https://dev.jira.jnj.com/*"],
+  "action": {
+    "default_popup": "jira.html",
+    "default_icon": "jiralogo.png"
+  }
+}

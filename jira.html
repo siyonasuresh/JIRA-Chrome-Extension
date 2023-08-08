@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel = "stylesheet" href="jira.css">
+  </head>
+  <body>
+    <h1>JIRA Request Initiator</h1>
+  
+    <form id = "jiraform">
+      <div class = 'inline'>
+        <label for="Project">Project:</label>
+        <select id="Project">
+            <option value="">-- Select an option --</option>
+        </select>
+  
+        <label for="Issue Type">Issue Type:</label>
+        <select id="IssueType" >
+          <option value="">-- Select an option --</option>
+        </select>
+  
+        <label for="Assignee">Assignee:</label>
+        <select id="Assignee" name = "Assignee">
+            <option value="">-- Select an option --</option>
+        </select>
+  
+        <div class="button-container">
+          <h2 id="date-button-title">Due Date:</h2>
+          <button id="dateButton" type="button">Select Date</button>
+          
+          <div id="calendarContainer" class="calendar">
+            <input type="date" name = "datePicker" id="datePicker">
+          </div>
+        </div>
+    </div>
+      
+      <div id="summary-container">
+        <h2 id="summary-title">Summary:</h2>
+        <input type="text" name = "summary-box" id="summary-box">
+      </div>
+  
+      <div id="description-container">
+        <h2 id="description-title">Description:</h2>
+        <textarea class="textbox" name = "description-box" id="description-box" rows="4"></textarea>
+      </div>
+  
+      <input type="submit" name = "submit-button" id="submit-button" value="Create Request">
+    </form>
+    <div id="result"></div>
+    <div id="logo-container">
+      <img src="logo.png" alt="Logo" id="logo">
+    </div>
+    <script src="jira.js"></script>
+  </body>
+</html>
