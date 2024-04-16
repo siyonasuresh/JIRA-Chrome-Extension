@@ -1,6 +1,6 @@
 {
     "jiraServerUrl": "https://dev.jira.jnj.com/rest/api/2",
-    "apiToken": "MDMyNTMyNzc5NzI0Ok5ic6972nJ+4iMcrUMitZCnIrfV",
+    "apiToken": "hidden",
     "IssueType": [
         "Theme",
         "Story",
@@ -20,14 +20,7 @@
         "HVM Limerick JIRA (AFOE)"
     ],
     "AssigneeOptions": {
-        "HVM Jacksonville JIRA (AFOI)": ["-- Select an option --", "Ssures24", "ranna", "Admin_AKanade", "Admin_JAnthon2", "Admin-SM72", "Admin_RRajend8", "SA-JJC-JIRAALIGN",
-                                        "SA-ITSUS-EAT-ADMIN", "WDAVIS", "admin-rlaskows", "Admin_SRavich9", "SA-ITSUS-AgileMigraP", "Admin_DVenugo1",
-                                        "vkadam6", "Admin-MGIDWANI", "XQian22", "Admin_JSwamina", "rsandadi", "Hsha3", "crose17", "SA-ITSUS-AgileTools",
-                                        "Admin-nrayani", "MMoral14", "Admin_cantoine", "kceasar", "Admin_mjayach", "JColli38", "smascian", "RPande33",
-                                        "SPokhre2", "BGartz", "Admin_VSarava2", "JWalsh41", "spaladu", "Admin_span8", "rgarciat", "mgormle", "Admin_cantoine",
-                                        "SA-ITSUS-AgileTools1", "Admin_nrayani", "Admin_sr48", "Admin_mjayach", "Admin_SSampa14", "Admin_IRasu1", "SKuma416",
-                                        "DMCINE01", "Admin_gvarma", "IElshaar", "Admin_sr48", "THAKIM", "BReyno11", "Admin_MGIDWANI", "TBennet5", "Admin_SRavich9"],
-        "HVM AMO JIRA (AFOJ)": ["-- Select an option --", "XQian22", "MMoral14", "PVerma26"],
-        "HVM Limerick JIRA (AFOE)": ["-- Select an option --", "MGormle", "DShiels"]
+        "HVM Jacksonville JIRA (AFOI)": ["-- Select an option --"],
+        "HVM Limerick JIRA (AFOE)": ["-- Select an option --"]
       }
 }
